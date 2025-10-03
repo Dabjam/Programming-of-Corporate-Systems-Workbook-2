@@ -1,0 +1,14 @@
+C:\Users\edikf\OneDrive\Рабочий стол\Programming-of-Corporate-Systems-Workbook-2\bin\Debug\net9.0\Programming-of-Corporate-Systems-Workbook-2.exe
+C:\Users\edikf\OneDrive\Рабочий стол\Programming-of-Corporate-Systems-Workbook-2\bin\Debug\net9.0\Programming-of-Corporate-Systems-Workbook-2.deps.json
+C:\Users\edikf\OneDrive\Рабочий стол\Programming-of-Corporate-Systems-Workbook-2\bin\Debug\net9.0\Programming-of-Corporate-Systems-Workbook-2.runtimeconfig.json
+C:\Users\edikf\OneDrive\Рабочий стол\Programming-of-Corporate-Systems-Workbook-2\bin\Debug\net9.0\Programming-of-Corporate-Systems-Workbook-2.dll
+C:\Users\edikf\OneDrive\Рабочий стол\Programming-of-Corporate-Systems-Workbook-2\bin\Debug\net9.0\Programming-of-Corporate-Systems-Workbook-2.pdb
+C:\Users\edikf\OneDrive\Рабочий стол\Programming-of-Corporate-Systems-Workbook-2\obj\Debug\net9.0\Programming-of-Corporate-Systems-Workbook-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edikf\OneDrive\Рабочий стол\Programming-of-Corporate-Systems-Workbook-2\obj\Debug\net9.0\Programming-of-Corporate-Systems-Workbook-2.AssemblyInfoInputs.cache
+C:\Users\edikf\OneDrive\Рабочий стол\Programming-of-Corporate-Systems-Workbook-2\obj\Debug\net9.0\Programming-of-Corporate-Systems-Workbook-2.AssemblyInfo.cs
+C:\Users\edikf\OneDrive\Рабочий стол\Programming-of-Corporate-Systems-Workbook-2\obj\Debug\net9.0\Programming-of-Corporate-Systems-Workbook-2.csproj.CoreCompileInputs.cache
+C:\Users\edikf\OneDrive\Рабочий стол\Programming-of-Corporate-Systems-Workbook-2\obj\Debug\net9.0\Programming-of-Corporate-Systems-Workbook-2.dll
+C:\Users\edikf\OneDrive\Рабочий стол\Programming-of-Corporate-Systems-Workbook-2\obj\Debug\net9.0\refint\Programming-of-Corporate-Systems-Workbook-2.dll
+C:\Users\edikf\OneDrive\Рабочий стол\Programming-of-Corporate-Systems-Workbook-2\obj\Debug\net9.0\Programming-of-Corporate-Systems-Workbook-2.pdb
+C:\Users\edikf\OneDrive\Рабочий стол\Programming-of-Corporate-Systems-Workbook-2\obj\Debug\net9.0\Programming-of-Corporate-Systems-Workbook-2.genruntimeconfig.cache
+C:\Users\edikf\OneDrive\Рабочий стол\Programming-of-Corporate-Systems-Workbook-2\obj\Debug\net9.0\ref\Programming-of-Corporate-Systems-Workbook-2.dll
